@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Des voyages, une aventure - General</title><link href="http://desvoyagesuneaventure.fr/" rel="alternate"></link><link href="http://desvoyagesuneaventure.fr/feeds/general.atom.xml" rel="self"></link><id>http://desvoyagesuneaventure.fr/</id><updated>2018-09-15T10:40:00+02:00</updated><entry><title>Remerciement</title><link href="http://desvoyagesuneaventure.fr/remerciement.html" rel="alternate"></link><published>2018-09-15T10:40:00+02:00</published><updated>2018-09-15T10:40:00+02:00</updated><author><name>Maïlys et Sylvain</name></author><id>tag:desvoyagesuneaventure.fr,2018-09-15:/remerciement.html</id><summary type="html">&lt;p&gt;Ecrire ici les remerciements&lt;/p&gt;
+&lt;p&gt;Test. Test.&lt;/p&gt;
+&lt;p&gt;Test.&lt;/p&gt;
+&lt;p&gt;Et encore un test !&lt;/p&gt;
+&lt;div class="galleria" style="margin:auto"&gt;
+    &lt;img src="images/Nala_photo/covernala.jpg"&gt;
+    &lt;img src="images/Nala_photo/covernala_full.jpg"&gt;
+    &lt;img src="images/Nala_photo/covernalathumbnail.jpg"&gt;
+&lt;\div&gt;
+
+&lt;script&gt;
+    (function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+        }());
+&lt;/script&gt;</summary><content type="html">&lt;p&gt;Ecrire ici les remerciements&lt;/p&gt;
+&lt;p&gt;Test. Test.&lt;/p&gt;
+&lt;p&gt;Test.&lt;/p&gt;
+&lt;p&gt;Et encore un test !&lt;/p&gt;
+&lt;div class="galleria" style="margin:auto"&gt;
+    &lt;img src="images/Nala_photo/covernala.jpg"&gt;
+    &lt;img src="images/Nala_photo/covernala_full.jpg"&gt;
+    &lt;img src="images/Nala_photo/covernalathumbnail.jpg"&gt;
+&lt;\div&gt;
+
+&lt;script&gt;
+    (function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+        }());
+&lt;/script&gt;</content></entry></feed>
