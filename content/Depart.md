@@ -1,6 +1,39 @@
 Title: Le grand départ
 Date: 2018-09-15 10:40
 Category: Asie du Sud-Est
-gallery:pics_nala
+Slug: Départ
+Status: published
+SubTitle: Sortir de la tanière 
+Cover: images/Depart/Depart_9.jpg
+Thumbnail: images/Depart/Depart_Thumbnail.jpg
 
-Commenter le départ.
+Les contes et les mythes nous l'ont appris, tout aventure commence dans une tanière. Métaphoriquement parlant bien entendu. Pour nous, la tanière c'est notre vie à Toulouse, Maïlys et moi. Cela ne veut pas dire qu'elle n'est pas mouvementée, bien sûr qu'elle a son lot de petites péripéties. Mais on est installés, moi ingénieur 5j/semaine, heures de bureau, Maïlys sage-femme, généralement soir et week-end, parfois les deux en même temps. Et Nala notre compagnon bien trop poilue (mais on l'aime quand même). Cela suffit à remplir une vie, notre tanière. Alors voilà, c'est notre monde, on en connaît les règles, on comprend les enjeux, les attendus. Et sans aventurier, pas d'aventure. Il nous faut donc braver l'inconnu, sortir de cette tanière pour avoir le droit de dire "je vis mon aventure".
+
+D'abord un mariage il y a un an, déjà une aventure en soi, et à la suite ce projet de tour du monde qui n'aurait pas pu se concrétiser si tôt sans l'aide financière de beaucoup. Encore une fois soyez-en remerciés.
+
+Que nous disent maintenant nos chers mythes et légendes ? Dehors, déjà, c'est plus la même tambouille ! Evidente mise en garde. Les règles sont différentes : dans les lois, dans la culture, dans le rapport aux gens. Certains dangers nous guettent, il nous faut donc bien nous préparer. Ramasser l'équipement nécessaire pour affronter ces obstacles convenablement. Cela veut dire un budget (cf. paragraphe précédent), du matériel, un cadre de départ pour nos emplois respectifs, un moyen de transport, etc. Cela veut dire aussi ranger notre tanière pour le temps du voyage. Autant dire qu'à cette étape, au vue du fatra inimiginable accumulé, la tâche n'est pas mince ! A tel point qu'on l'a quelque peu sous-estimée, se retrouvant un peu desoeuvrés devant tout ce qu'il a fallu donner, vendre, jeter et stocker. Mais on y est arrivés, non sans suer. Là encore une mini-aventure en soi, avec son lot de péripéties. Mais avec l'aide de nos amis toulousains, que ce soit la famille rillettes ou nos potos d'ingé et sages-femmes, on a réussi à boucler l'affaire. Soyez-en remerciés.
+
+Maintenant vient le temps au coin du feu. On dit au revoir à ceux qu'on laisse, on se rassure, on se galvanise mais surtout on reçoit les sagesses du mentor. Des mentors en ce qui nous concernent. Beaucoup nous ont gentillement transmis leur savoir, les quelques bribes de connaissances qui pourraient nous aider dehors. Je voudrais ici remercier particulièrement nos amis Cyril et Nathalie, pionniers qui sont partis avant nous pour leur propre aventure. Leurs conseils ont été précieux et rassurants. Soyez-en remerciés.
+Malheureusement la vie a fait que nous n'avons pas pu dire au revoir comme nous le souhaitions à tous, notamment ma famille que je pensais revoir une dernière fois. Mais cela ne doit pas enlever à la sincérité de l'au-revoir. "Bon vent !" comme dit ma soeur, cette formule me plaît.
+Merci à ceux qui ont eu la gentillesse de venir à nous pour un dernier moment, Olivia et Bruno, Kevin et Lucille. Soyez-en remerciés.
+Nos coins de feux ont été multiples (encore une fois une métaphore) mais merci à Julien particulièrement qui nous a offert un campement bien douillet. Et nous savons qu'en plus il nous attend à mi-voyage. Sois-en remercié.
+
+Notre préparation a été mouvementée, éreintante parfois. On a largement sous-estimé la charge de certaines choses, mais grâce à l'aide de tout notre entourage, on ne part pas si mal préparés. On n'a pas plannifié le voyage, certes (le reste du blog vous le démontrera ;) ), mais on est partis préparés pour l'aventure. Une dernière fois, soyez-en tous remerciés.
+
+<div class="galleria" style="margin:auto">
+	<img src="images/Depart/Depart_1.jpg">
+	<img src="images/Depart/Depart_2.jpg">
+	<img src="images/Depart/Depart_3.jpg">
+    <img src="images/Depart/Depart_4.jpg">
+    <img src="images/Depart/Depart_5.jpg">
+    <img src="images/Depart/Depart_6.jpg">
+    <img src="images/Depart/Depart_7.jpg">
+    <img src="images/Depart/Depart_8.jpg">
+    <img src="images/Depart/Depart_9.jpg">
+<\div>
+<script>
+	(function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+        }());
+</script>
