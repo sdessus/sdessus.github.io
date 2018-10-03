@@ -3,7 +3,7 @@ Date: 2018-09-27 10:40
 Category: Asie du Sud-Est
 Slug: Yogyakarta
 Status: published
-SubTitle: Des gens acceuillants et des édifices remarquables
+SubTitle: Des gens accueillants et des édifices remarquables
 Cover: images/Yogyakarta/Yogyakarta_09.jpg
 Thumbnail: images/Pranbanan/Pranbanan_02.jpg
 
