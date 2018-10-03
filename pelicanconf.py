@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Maïlys et Sylvain'
 SITENAME = 'Des voyages, une aventure'
-SITEURL = 'https://sdessus.github.io/'
+SITEURL = ''
 GITHUB_URL = 'https://github.com/sdessus/sdessus.github.io'
 
 PATH = 'content'

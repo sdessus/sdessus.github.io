@@ -13,6 +13,7 @@ Ici juste un aperçu de quelques croquis exécutés le long du voyage.
 	<img src="../images/Carnet_croquis/Carnet_02.jpg">
     <img src="../images/Carnet_croquis/Carnet_03.jpg">
     <img src="../images/Carnet_croquis/Carnet_04.jpg">
+    <img src="../images/Carnet_croquis/Carnet_05.jpg">
 <\div>
 <script>
 	(function() { 
