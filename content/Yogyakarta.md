@@ -49,14 +49,10 @@ A noter que le Luwang Kopi, le café le plus cher du monde, est effectivement tr
     <img src="images/Yogyakarta/Yogyakarta_07.jpg">
     <img src="images/Yogyakarta/Yogyakarta_08.jpg">
     <img src="images/Yogyakarta/Yogyakarta_09.jpg">
-<\div>
-<div class="galleria" style="margin:auto">
     <img src="images/Pranbanan/Pranbanan_01.jpg">
     <img src="images/Pranbanan/Pranbanan_02.jpg">
     <img src="images/Pranbanan/Pranbanan_03.jpg">
     <img src="images/Pranbanan/Pranbanan_04.jpg">
-<\div>
-<div class="galleria" style="margin:auto">
     <img src="images/Boroboudur/Boroboudur_01.jpg">
     <img src="images/Boroboudur/Boroboudur_02.jpg">
     <img src="images/Boroboudur/Boroboudur_03.jpg">
