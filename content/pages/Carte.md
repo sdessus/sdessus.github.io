@@ -2,7 +2,7 @@ Title: Carte de nos aventures
 Date: 2018-10-03 23:30
 Category: Carte
 Slug: Carte
-Status: draft
+Status: hidden
 SubTitle: Pour ceux qui veulent progresser en géo !
 
 Vous pouvez suivre notre petit périple sur une carte ;)
