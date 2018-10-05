@@ -14,10 +14,14 @@ Ici juste un aperçu de quelques croquis exécutés le long du voyage.
     <img src="../images/Carnet_croquis/Carnet_03.jpg">
     <img src="../images/Carnet_croquis/Carnet_04.jpg">
     <img src="../images/Carnet_croquis/Carnet_05.jpg">
+    <img src="../images/Carnet_croquis/Carnet_06.jpg">
+    <img src="../images/Carnet_croquis/Carnet_07.jpg">
 <\div>
 <script>
 	(function() { 
             Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
-            Galleria.run('.galleria');
+            Galleria.run('.galleria', {
+                height: 0.5625
+            });
         }());
 </script>
