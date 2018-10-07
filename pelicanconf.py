@@ -21,7 +21,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('You can modify those links in your config file', '#'),)
+LINKS = (('GSCF - Considérez faire un don, svp', 'pages/Dons.html'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
