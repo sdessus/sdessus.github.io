@@ -92,9 +92,27 @@ Conduite à gauche, treize personnes qui te doublent à la seconde de tous les c
             Galleria.run('.galleria');
         }());
 </script>
-    </div>
+		
+	</div>
 
     <footer>
+		<div>
+			<h3 id="comments">COMMENTS</h3>
+		</div>
+		
+		<div id="comment-post">
+			<form method="POST" action=""https://staticman3.herokuapp.com/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"">
+				<input name="options[redirect]" type="hidden" value="./Cimaja">
+				<input name="fields[url]" type="hidden" value="Cimaja">
+				<div><label>Name: <input name="fields[name]" type="text"></label></div>
+				<div><label>E-mail: <input name="fields[email]" type="email"></label></div>
+				<div><label>Message: <textarea name="fields[message]"></textarea></label></div>
+            
+				<button type="submit">Submit</button>
+			</form>
+		</div>
+		
+	
         <div class="pure-g post-footer">
             <div class="pure-u-1 pure-u-md-1-2">
                 <div class="pure-g poster-info">
@@ -110,10 +128,10 @@ Conduite à gauche, treize personnes qui te doublent à la seconde de tous les c
 
         </div>
 
-
     </footer>
 
-
+	
+	
 </div>
 
 

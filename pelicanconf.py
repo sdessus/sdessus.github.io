@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = 'Maïlys et Sylvain'
 SITENAME = 'Des voyages, une aventure'
@@ -34,3 +35,13 @@ DEFAULT_PAGINATION = 10
 
 # Specify name of a built-in theme
 THEME = "pelican-themes/medius"
+
+#Staticman Comments
+commentsPath = "./content/comments"
+
+def ymlToJson(file):
+    with open(commentsPath + "/" + file) as stream:
+        return yaml.load(stream)
+
+commentsYML = [f for f in os.listdir(commentsPath) if isfile(join(commentsPath, f))]
+COMMENTS = list(map(ymlToJson, commentsYML))
