@@ -87,9 +87,27 @@ Nos coins de feux ont été multiples (encore une fois une métaphore) mais merc
             Galleria.run('.galleria');
         }());
 </script>
-    </div>
+		
+	</div>
 
     <footer>
+		<div>
+			<h3 id="comments">COMMENTS</h3>
+		</div>
+		
+		<div id="comment-post">
+			<form method="POST" action=""https://staticman3.herokuapp.com/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"">
+				<input name="options[redirect]" type="hidden" value="./Départ">
+				<input name="fields[url]" type="hidden" value="Départ">
+				<div><label>Name: <input name="fields[name]" type="text"></label></div>
+				<div><label>E-mail: <input name="fields[email]" type="email"></label></div>
+				<div><label>Message: <textarea name="fields[message]"></textarea></label></div>
+            
+				<button type="submit">Submit</button>
+			</form>
+		</div>
+		
+	
         <div class="pure-g post-footer">
             <div class="pure-u-1 pure-u-md-1-2">
                 <div class="pure-g poster-info">
@@ -105,10 +123,10 @@ Nos coins de feux ont été multiples (encore une fois une métaphore) mais merc
 
         </div>
 
-
     </footer>
 
-
+	
+	
 </div>
 
 
