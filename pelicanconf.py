@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
+from os import listdir
+from os.path import isfile, join
+import yaml, json, sys
+import shutil
 
 AUTHOR = 'Maïlys et Sylvain'
 SITENAME = 'Des voyages, une aventure'
@@ -37,11 +41,14 @@ DEFAULT_PAGINATION = 10
 THEME = "pelican-themes/medius"
 
 #Staticman Comments
+STATIC_PATHS = ['comments','images']
 commentsPath = "./content/comments"
 
 def ymlToJson(file):
     with open(commentsPath + "/" + file) as stream:
         return yaml.load(stream)
 
-commentsYML = [f for f in os.listdir(commentsPath) if isfile(join(commentsPath, f))]
+commentsYML = [f for f in os.listdir(commentsPath) if os.path.isfile(join(commentsPath, f))]
 COMMENTS = list(map(ymlToJson, commentsYML))
+
+shutil.copy ("C:\Blog_TDM\staticman.yml","C:\Blog_TDM\output")
