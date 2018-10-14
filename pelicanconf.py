@@ -51,4 +51,4 @@ def ymlToJson(file):
 commentsYML = [f for f in os.listdir(commentsPath) if os.path.isfile(join(commentsPath, f))]
 COMMENTS = list(map(ymlToJson, commentsYML))
 
-shutil.copy ("C:\Blog_TDM\staticman.yml","C:\Blog_TDM\output")
+shutil.copy ("./staticman.yml","./output")
