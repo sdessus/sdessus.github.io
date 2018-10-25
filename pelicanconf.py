@@ -26,7 +26,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('GSCF - Considérez faire un don, svp', 'pages/Dons.html'),)
+LINKS = (('GSCF - Considérez faire un don, svp', 'pages/Dons.html'),
+         ('Adventure Bag - Considérez faire un geste, svp', 'https://www.journeyera.com/adventure-bag/'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
