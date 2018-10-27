@@ -1,7 +1,7 @@
 Title: Le grand départ
 Date: 2018-09-15 10:40
 Category: Asie du Sud-Est
-Slug: Départ
+Slug: Depart
 Status: published
 SubTitle: Sortir de la tanière 
 Cover: images/Depart/Depart_9.jpg
