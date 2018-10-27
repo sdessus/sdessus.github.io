@@ -42,15 +42,11 @@ DEFAULT_PAGINATION = 10
 THEME = "pelican-themes/medius"
 
 #Staticman Comments
-# STATIC_PATHS = ['comments','images']
-# commentsPath = "./content/comments"
+commentsPath = "./comments_blog_tdm/comments"
 
-# def ymlToJson(file):
-#     with open(commentsPath + "/" + file) as stream:
-#         return yaml.load(stream)
+def ymlToJson(file):
+    with open(commentsPath + "/" + file) as stream:
+        return yaml.load(stream)
 
-# commentsYML = [f for f in os.listdir(commentsPath) if os.path.isfile(join(commentsPath, f))]
-# COMMENTS = list(map(ymlToJson, commentsYML))
-
-# # shutil.copytree("./content/comments","./output/comments")
-# shutil.copy ("staticman.yml","./output")
+commentsYML = [f for f in listdir(commentsPath) if isfile(join(commentsPath, f))]
+COMMENTS = list(map(ymlToJson, commentsYML))
