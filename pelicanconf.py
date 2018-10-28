@@ -40,6 +40,18 @@ DEFAULT_PAGINATION = 10
 
 # Specify name of a built-in theme
 THEME = "pelican-themes/medius"
+MEDIUS_AUTHORS = {
+    'Maïlys et Sylvain': {
+        'description': """
+            Juste un couple qui voyage
+        """,
+        'cover': 'images/Remerciement/Font_author.jpg',
+        'image': 'images/Remerciement/Remerciement_Thumbnail.jpg',
+        'links': (('envelope', 'mailto:mailyssylvain0209@gmail.com'),
+                    ('','')),
+    }
+}
+DISPLAY_CATEGORIES_ON_MENU = False
 
 #Staticman Comments
 commentsPath = "./comments_blog_tdm/comments"
