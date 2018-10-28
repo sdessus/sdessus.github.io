@@ -45,8 +45,8 @@ MEDIUS_AUTHORS = {
         'description': """
             Juste un couple qui voyage
         """,
-        'cover': 'images/Remerciement/Font_author.jpg',
-        'image': 'images/Remerciement/Remerciement_Thumbnail.jpg',
+        'cover': '../images/Author/Font_author.jpg',
+        'image': '../images/Author/Avatar.jpg',
         'links': (('envelope', 'mailto:mailyssylvain0209@gmail.com'),
                     ('','')),
     }
