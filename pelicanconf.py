@@ -47,11 +47,13 @@ MEDIUS_AUTHORS = {
         """,
         'cover': '../images/Author/Font_author.jpg',
         'image': '../images/Author/Avatar.jpg',
-        'links': (('envelope', 'mailto:mailyssylvain0209@gmail.com'),
-                    ('','')),
+        'links': (('envelope', 'mailto:mailyssylvain0209@gmail.com'),)
     }
 }
 DISPLAY_CATEGORIES_ON_MENU = False
+
+# Test pour tuto Maïlys
+# MENUITEMS = (('Les tutos de Maïlys','Tuto_Mailys.html'),)
 
 #Staticman Comments
 commentsPath = "./comments_blog_tdm/comments"
