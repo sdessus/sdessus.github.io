@@ -66,4 +66,5 @@ Et on l'a peut-être pas assez dit, mais qu'est-ce qu'il y a comme temples !!!
 
 Au revoir Java, au revoir Bali, ce fût un plaisir de commencer notre voyage par vous. On reviendra pour vos soeurs, alors ne soyons pas tristes.
 
+
 <img src="images/BilanIndo/BilanIndo_01.jpg">
