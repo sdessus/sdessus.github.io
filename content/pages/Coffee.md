@@ -6,3 +6,4 @@ SubTitle:
 Cover: 
 Thumbnail: 
 
+<div class="galleria" style="margin:auto">
