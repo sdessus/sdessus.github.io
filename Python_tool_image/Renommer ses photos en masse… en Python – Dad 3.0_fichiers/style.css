@@ -1,0 +1,100 @@
+/*
+Theme Name:     Dad 3 Zero Lovecraft Theme
+Theme URI:      http://www.dad3zero.net
+Description:    Child theme for the Lovecraft theme
+Author:         dad3zero
+Author URI:     http://www.dad3zero.net/about/
+Template:       lovecraft
+Version:        0.1.0
+*/
+
+@import url("../lovecraft/style.css");
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Courgette);
+
+.home .entry-header {
+    display: none;
+}
+
+.widget-title {
+  border-top: 2px solid #ca2017;
+  padding-top: 3px;
+}
+
+/* Blog title --------------------------------------------------------------- */
+.blog-title {
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 3px #aaa;
+}
+
+.post-content {
+    font-size: 1em;
+}
+
+.comment-content {
+    font-size: 1em;
+}
+
+.comment-inner {
+  background-image: linear-gradient(to right, #F1F1F1, white);
+}
+
+.post-content p {
+    text-align: justify;
+    font-size: 1em;
+}
+
+.post-header .post-title {
+    text-shadow: 1px 1px 1px #aaa;
+}
+
+.entry-header .comments-link {
+    margin-top: 10px;
+    line-height: 1.28;
+}
+
+.ad-alignright {
+    float: right;
+    margin-left: 4px;
+}
+
+.ad-alignleft {
+    float: left;
+    margin-right: 4px;
+}
+
+article.format-aside .aside {
+	padding: 24px 24px 0;
+	padding: 1.714285714rem;
+	background: #d2e0f9;
+	border-left: 22px solid #55443b;
+}
+
+/* ------------------------------*/
+/* Style des alertes calqué sur Bootstrap
+/* ------------------------------*/
+.alert {
+    text-align: justify;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4p;
+}
+
+.alert-info {
+    background-color: #75caeb;
+    border-color: #40b5e3;
+    color: #ffffff;
+}
+
+.alert-warning {
+    background-color: #fcf8e3;
+    border-color: #fbeed5;
+    color: #c09853;
+}
+
+.alert-danger {
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    color: #b94a48;
+}

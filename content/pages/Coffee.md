@@ -4,6 +4,4 @@ Slug: CoffeeCoffy
 Status: hidden
 SubTitle: 
 Cover: 
-Thumbnail: 
-
-<div class="galleria" style="margin:auto">
+Thumbnail:
