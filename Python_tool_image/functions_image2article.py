@@ -44,9 +44,17 @@ def im2art(ImFilePath,ArticlePath):
 		ArticleFile.writelines(LowerBlock)
 		
 	else:
+		BlockEndLine = 0
+		for line in range(BlockStartLine,len(ArticleLine)-1):
+			if (ArticleLine[line] == '<\\div>\n') and (ArticleLine[line+1] == '<script>\n'):
+				BlockEndLine = line
+				break
+		if BlockEndLine == 0 :
+			print ('La fin du block d''insertion d''image n''a pas été trouvé')
+			return
 		ArticleFile = open(ArticlePath, 'w')
 		# insert newline in existing bloc
-		ArticleLine.insert(BlockStartLine+1,'    <img src="images/%s">\n' % (ImFile.parts[-2] + '/' + ImFile.name))
+		ArticleLine.insert(BlockEndLine,'    <img src="images/%s">\n' % (ImFile.parts[-2] + '/' + ImFile.name))
 		# Rewrite the article
 		ArticleFile.writelines(ArticleLine)
 	
