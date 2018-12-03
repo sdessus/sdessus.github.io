@@ -1,5 +1,7 @@
 import os
 from pathlib import *
+# from IPTCInfo3 import *
+# import exifread
 
 def im2art(ImFilePath,ArticlePath):
 	ImFile = Path(ImFilePath)
@@ -108,6 +110,10 @@ def fold2art(ImFolderPath,ArticlePath):
 		TestImExt(ImFolder / ImList[image])
 		im2art(ImFolder / ImList[image],ArticlePath)
 		
+# def AddLegend(ImFilePath,legend):
+	# info = IPTCInfo(ImFilePath)
+	# print(info)
+
 def DoTheMagic():
 	BlogContentPath = Path('C:\Blog_TDM\content')
 
