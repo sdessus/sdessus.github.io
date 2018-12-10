@@ -110,6 +110,13 @@ def fold2art(ImFolderPath,ArticlePath):
 		TestImExt(ImFolder / ImList[image])
 		im2art(ImFolder / ImList[image],ArticlePath)
 		
+# def get_files_by_date(directory):
+	# Folder = Path(directory)
+	# FileList = os.listdir(Folder)
+	# FileListDated = [os.path.getctime(Folder / fname),fname for fname in os.listdir(Folder) if os.path.isfile(f)]
+	# files.sort()
+	# return  [f for s,f in files]
+		
 # def AddLegend(ImFilePath,legend):
 	# info = IPTCInfo(ImFilePath)
 	# print(info)
