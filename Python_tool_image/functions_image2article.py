@@ -1,7 +1,9 @@
 import os
 from pathlib import *
 # from IPTCInfo3 import *
-# import exifread
+import exifread
+from datetime import datetime
+import time
 
 def im2art(ImFilePath,ArticlePath):
 	ImFile = Path(ImFilePath)
@@ -110,12 +112,55 @@ def fold2art(ImFolderPath,ArticlePath):
 		TestImExt(ImFolder / ImList[image])
 		im2art(ImFolder / ImList[image],ArticlePath)
 		
-# def get_files_by_date(directory):
-	# Folder = Path(directory)
-	# FileList = os.listdir(Folder)
-	# FileListDated = [os.path.getctime(Folder / fname),fname for fname in os.listdir(Folder) if os.path.isfile(f)]
-	# files.sort()
-	# return  [f for s,f in files]
+def get_files_by_date(directory):
+	Folder = Path(directory)
+	FileList = os.listdir(Folder)
+	FileListDated = []
+	for fnum in range(len(FileList)):
+		# FileListDated.insert(fnum, (os.path.getmtime(Folder / FileList[fnum]),FileList[fnum]))
+		FileListDated.insert(fnum, (GetImDateShot(Folder / FileList[fnum]).strftime('%y%m%d-%H%M%S') ,FileList[fnum]))
+	FileListDated.sort()
+	# print(FileListDated)
+	return  [fname for s,fname in FileListDated]
+	
+def RenameImInFolder(dir):
+	Folder = Path(dir)
+	# print(os.listdir(Folder))
+	ImListSorted = get_files_by_date(Folder)
+	# print(ImListSorted)
+	for fnum in range(len(ImListSorted)):
+		ImFile = Path(Folder / ImListSorted[fnum])
+		ImName = ImFile.parts[-2] + '_%s.jpg' % str(fnum).rjust(2,'0')
+		print(ImName)
+		print(ImFile)
+		# if ImFile.with_name(ImName).exists():
+			# ImFile.with_name(ImName).rename(ImFile.with_name(ImName).parent.joinpath(ImFile.with_name(ImName).stem + '_bis' + ImFile.with_name(ImName).suffix))
+		ImFile.rename(ImFile.with_name(ImName))
+	ImListRenamed = os.listdir(Folder)
+	print(ImListRenamed)
+		
+def GetImDateShot(ImFilePath):
+	ImFile = Path(ImFilePath)
+	OpenIm = open(ImFile, 'rb')
+	ImExifData = exifread.process_file(OpenIm)
+	print(ImFile)
+	print(ImExifData.get('EXIF DateTimeOriginal'))
+	if (ImExifData.get('EXIF DateTimeOriginal') != None):
+		ImDateShot = datetime.strptime(str(ImExifData.get('EXIF DateTimeOriginal')),'%Y:%m:%d %H:%M:%S')
+	else:
+		ImDateShot = datetime.strptime(str(time.strftime("%Y:%m:%d %H:%M:%S",time.gmtime(os.path.getmtime(ImFile)))),'%Y:%m:%d %H:%M:%S')
+		# print(datetime.strptime(str(time.strftime("%Y:%m:%d %H:%M:%S",time.gmtime(os.path.getmtime(ImFile)))),'%Y:%m:%d %H:%M:%S'))
+	print (ImDateShot)
+	return(ImDateShot)
+		
+def GetImComment(ImFilePath):
+	ImFile = Path(ImFilePath)
+	OpenIm = open(ImFile, 'rb')
+	ImExifData = exifread.process_file(OpenIm)
+	# print(ImExifData.get('Image XPComment'))
+	ByteComment = ImExifData.get('Image XPComment')
+	StrByteComment = str(ByteComment).strip('[]').split(', ')
+	print(chr(int(StrByteComment[0])))
 		
 # def AddLegend(ImFilePath,legend):
 	# info = IPTCInfo(ImFilePath)
@@ -155,5 +200,6 @@ def DoTheMagic():
 	elif not ImFolder.is_dir():
 		print('The image folder is not a folder')
 		return
-
+	
+	RenameImInFolder(ImFolder)
 	fold2art(ImFolder,Article)
