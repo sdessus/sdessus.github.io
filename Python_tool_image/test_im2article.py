@@ -9,4 +9,6 @@ from functions_image2article import *
 
 RenameImInFolder('C:\Blog_TDM\content\images\TestPyth')
 
+#RemovePrefixIm('C:\Blog_TDM\content\images\TestPyth\TorenameTestPyth_00.jpg')
+
 # GetImDateShot('C:\Blog_TDM\content\images\TestPyth\TestPyth_0.jpg')

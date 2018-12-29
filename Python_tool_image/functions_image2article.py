@@ -133,24 +133,40 @@ def RenameImInFolder(dir):
 		ImName = ImFile.parts[-2] + '_%s.jpg' % str(fnum).rjust(2,'0')
 		print(ImName)
 		print(ImFile)
-		# if ImFile.with_name(ImName).exists():
+		if ImFile.with_name(ImName).exists():
 			# ImFile.with_name(ImName).rename(ImFile.with_name(ImName).parent.joinpath(ImFile.with_name(ImName).stem + '_bis' + ImFile.with_name(ImName).suffix))
-		ImFile.rename(ImFile.with_name(ImName))
+			ImFile.rename(ImFile.parent.joinpath('Torename' + ImFile.name))
+		else:
+			ImFile.rename(ImFile.with_name(ImName))
+	
+	# Clean up
+	ImList = os.listdir(Folder)
+	for fnum in range(len(ImList)):
+		ImFile = Path(Folder / ImList[fnum])
+		RemovePrefixIm(ImFile)
+	
+	# Check
 	ImListRenamed = os.listdir(Folder)
 	print(ImListRenamed)
+	
+def RemovePrefixIm(ImFilePath):
+	ImFile = Path(ImFilePath)
+	if 'Torename' in ImFile.name:
+		ImName = ImFile.name[8:len(ImFile.name)]
+		ImFile.rename(ImFile.with_name(ImName))
 		
 def GetImDateShot(ImFilePath):
 	ImFile = Path(ImFilePath)
 	OpenIm = open(ImFile, 'rb')
 	ImExifData = exifread.process_file(OpenIm)
 	print(ImFile)
-	print(ImExifData.get('EXIF DateTimeOriginal'))
+	# print(ImExifData.get('EXIF DateTimeOriginal'))
 	if (ImExifData.get('EXIF DateTimeOriginal') != None):
 		ImDateShot = datetime.strptime(str(ImExifData.get('EXIF DateTimeOriginal')),'%Y:%m:%d %H:%M:%S')
 	else:
 		ImDateShot = datetime.strptime(str(time.strftime("%Y:%m:%d %H:%M:%S",time.gmtime(os.path.getmtime(ImFile)))),'%Y:%m:%d %H:%M:%S')
 		# print(datetime.strptime(str(time.strftime("%Y:%m:%d %H:%M:%S",time.gmtime(os.path.getmtime(ImFile)))),'%Y:%m:%d %H:%M:%S'))
-	print (ImDateShot)
+	# print (ImDateShot)
 	return(ImDateShot)
 		
 def GetImComment(ImFilePath):

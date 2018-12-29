@@ -4,8 +4,8 @@ Category: Asie du Sud-Est
 Slug: Phongsaly
 Status: draft
 SubTitle: Avec de la pluie, des sang-sues et le 5 à 7 laosien
-Cover: 
-Thumbnail: 
+Cover: images/Phongsaly/Phongsaly_13.jpg
+Thumbnail: images/Phongsaly/Phongsaly_00.jpg
 
 # Phongsaly, ça se mérite !
 Comme on l'a déjà dit, entre Muang Khua et Phongsaly, il ya 208 km. Mais ici, ça ne sert pas tellement de parler en distance, puisqu'on mettra environ 9h pour parcourir la distance. Le plus frustrant c'est qu'on nous fait des fausses joies, d'abord on annonce 5h de trajet, puis 7h et finalement c'est bien 9h que ça nous aura pris. Et c'était long à la fin !  
@@ -26,17 +26,23 @@ La route vers Thakhek n'a rien d'extraordinaire, à part que les 5h annoncées s
 Arrivés à Thakhek on tout juste le temps de se rencardés sur la boucle et nous voilà parti pour 4 jours de roadtrip prometteur en scooter.
 
 <div class="galleria" style="margin:auto">
-    <img src="images/Phongsaly/Phongsaly_0.jpg">
-    <img src="images/Phongsaly/Phongsaly_1.jpg">
-    <img src="images/Phongsaly/Phongsaly_2.jpg">
-    <img src="images/Phongsaly/Phongsaly_3.jpg">
-    <img src="images/Phongsaly/Phongsaly_4.jpg">
-    <img src="images/Phongsaly/Phongsaly_5.jpg">
-    <img src="images/Phongsaly/Phongsaly_6.jpg">
-    <img src="images/Phongsaly/Phongsaly_7.jpg">
-    <img src="images/Phongsaly/Phongsaly_8.jpg">
-    <img src="images/Phongsaly/Phongsaly_9.jpg">
+    <img src="images/Phongsaly/Phongsaly_00.jpg">
+    <img src="images/Phongsaly/Phongsaly_01.jpg">
+    <img src="images/Phongsaly/Phongsaly_02.jpg">
+    <img src="images/Phongsaly/Phongsaly_03.jpg">
+    <img src="images/Phongsaly/Phongsaly_04.jpg">
+    <img src="images/Phongsaly/Phongsaly_05.jpg">
+    <img src="images/Phongsaly/Phongsaly_06.jpg">
+    <img src="images/Phongsaly/Phongsaly_07.jpg">
+    <img src="images/Phongsaly/Phongsaly_08.jpg">
+    <img src="images/Phongsaly/Phongsaly_09.jpg">
     <img src="images/Phongsaly/Phongsaly_10.jpg">
+    <img src="images/Phongsaly/Phongsaly_11.jpg">
+    <img src="images/Phongsaly/Phongsaly_12.jpg">
+    <img src="images/Phongsaly/Phongsaly_13.jpg">
+    <img src="images/Phongsaly/Phongsaly_14.jpg">
+    <img src="images/Phongsaly/Phongsaly_15.jpg">
+    <img src="images/Phongsaly/Phongsaly_16.jpg">
 <\div>
 <script>
 	(function() { 
