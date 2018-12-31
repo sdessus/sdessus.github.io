@@ -34,6 +34,8 @@ Ici juste un aperçu de quelques croquis exécutés le long du voyage.
     <img src="../images/Carnet_croquis/Carnet_23.jpg">
     <img src="../images/Carnet_croquis/Carnet_24.jpg">
     <img src="../images/Carnet_croquis/Carnet_25.jpg">
+    <img src="../images/Carnet_croquis/Carnet_26.jpg">
+    <img src="../images/Carnet_croquis/Carnet_27.jpg">
 <\div>
 <script>
 	(function() { 
