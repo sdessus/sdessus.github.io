@@ -7,8 +7,14 @@ from functions_image2article import *
 # f = get_files_by_date('C:\Blog_TDM\content\images\TestPyth')
 # print(f)
 
-RenameImInFolder('C:\Blog_TDM\content\images\TestPyth')
+# RenameImInFolder('C:\Blog_TDM\content\images\TestPyth')
 
 #RemovePrefixIm('C:\Blog_TDM\content\images\TestPyth\TorenameTestPyth_00.jpg')
 
 # GetImDateShot('C:\Blog_TDM\content\images\TestPyth\TestPyth_0.jpg')
+
+GetImComment('C:\Blog_TDM\content\images\Thakhek\Thakhek_01.jpg')
+
+# InsertLegend2Art('C:\Blog_TDM\content\images\TestPyth\TestPyth_01.jpg', 'C:\Blog_TDM\content\Coffee.md')
+
+# InsertLegendFolder2Art('C:\Blog_TDM\content\images\TestPyth','C:\Blog_TDM\content\Coffee.md')

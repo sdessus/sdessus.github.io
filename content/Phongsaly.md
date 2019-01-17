@@ -22,8 +22,8 @@ Et nous voilà repartis après le repas, et déjà on sent que le temps est ince
 
 # La redescente
 On souhaite se rendre à Thakhek pour aller faire une boucle qui apparammenet vaut le coup d'oeil. Mais on est tout au nord... On se lance donc dans un périple de 24h pour se rendre à Vientiane, et ensuite il nous faudra rejoindre Thakhek. Et comme on veut pas trop traîner, on décide de partir avec le "sitting bus" le bus pour les locaux. Et effectivement ça nous a bien pris 24h pour tout descendre, c'est long, c'est fatiguant (et la pauvre mamie laotienne qui a vomi tout du long) mais on est arrivés à bon port sans encombres. On s'octroie donc une journée et une nuît de repos dans la capitale, on recharge les batteries, lessive et tout le reste. On se paye le luxe d'une pizza, on avait clairement une envie de bouffe occidentale, et nous voilà fin prêts pour le départ pour Thakhek.  
-La route vers Thakhek n'a rien d'extraordinaire, à part que les 5h annoncées se sont transformées en 7h30, mais on a fait la rencotre d'un bourlingueur français, André (je crois) qui a bien roulé sa bosse et nous a longuement parlé de sa façon de voyager.  
-Arrivés à Thakhek on tout juste le temps de se rencardés sur la boucle et nous voilà parti pour 4 jours de roadtrip prometteurs en scooter.
+La route vers Thakhek n'a rien d'extraordinaire, à part que les 5h annoncées qui se sont transformées en 7h30.Mais on a fait la rencotre d'un bourlingueur français, André (je crois) qui a bien roulé sa bosse et nous a longuement parlé de sa façon de voyager.  
+Arrivés à Thakhek on a tout juste le temps de se rencarder sur la boucle et nous voilà partis pour 4 jours de roadtrip prometteurs en scooter.
 
 <div class="galleria" style="margin:auto">
     <img src="images/Phongsaly/Phongsaly_00.jpg">
