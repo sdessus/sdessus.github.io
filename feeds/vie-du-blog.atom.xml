@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Des voyages, une aventure - Vie du blog</title><link href="https://sdessus.github.io/" rel="alternate"></link><link href="https://sdessus.github.io/feeds/vie-du-blog.atom.xml" rel="self"></link><id>https://sdessus.github.io/</id><updated>2019-01-17T17:40:00+01:00</updated><entry><title>Les légendes sont là !</title><link href="https://sdessus.github.io/Legende.html" rel="alternate"></link><published>2019-01-17T17:40:00+01:00</published><updated>2019-01-17T17:40:00+01:00</updated><author><name>Maïlys et Sylvain</name></author><id>tag:sdessus.github.io,2019-01-17:/Legende.html</id><summary type="html">&lt;p&gt;Vous avez bien lu ! Les légendes des images arrivent également sur le blog ;)&lt;/p&gt;
+&lt;p&gt;On s'est dit que parfois, quand même, le lien entre les photos partagées et le texte n'était pas toujours très... évident. Donc voici nos petits commentaires pour rendre l'immersion encore plus forte :p !&lt;/p&gt;
+&lt;p&gt;Pour les plus perspicaces …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Vous avez bien lu ! Les légendes des images arrivent également sur le blog ;)&lt;/p&gt;
+&lt;p&gt;On s'est dit que parfois, quand même, le lien entre les photos partagées et le texte n'était pas toujours très... évident. Donc voici nos petits commentaires pour rendre l'immersion encore plus forte :p !&lt;/p&gt;
+&lt;p&gt;Pour les plus perspicaces d'entre vous, vous aurez déjà percé à jour le mystère. Pour les autres, une brève explication avant que vous passiez à côté.&lt;/p&gt;
+&lt;p&gt;Voici comment se présente une image:
+&lt;img src="images/LegendImage/LegendImage_02.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Avec un petit "i" d'information, pour les légendes (logique...).&lt;br&gt;
+Vous cliquez dessus et tadaaam !!!
+&lt;img src="images/LegendImage/LegendImage_03.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;En vrai il n'y aura pas le cadre rouge, pour ceux qui se demandent.&lt;/p&gt;
+&lt;p&gt;Et maintenant, travaux pratiques !!!
+Mets en commentaires les légendes des images suivantes, sans regarder la copie du voisin (non je rigole !!! ... vraiment... pas besoin de les mettre en commentaire).&lt;/p&gt;
+&lt;div class="galleria" style="margin:auto"&gt;
+    &lt;img src="images/LegendImage/LegendImage_00.jpg" data-description="Maïlys au Décathlon"&gt;
+    &lt;img src="images/LegendImage/LegendImage_01.jpg" data-description="Maïlys les pieds dans la boue"&gt;
+&lt;\div&gt;
+
+&lt;script&gt;
+    (function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+        }());
+&lt;/script&gt;</content></entry><entry><title>Les commentaires sont là !</title><link href="https://sdessus.github.io/Commentaires.html" rel="alternate"></link><published>2018-10-27T10:40:00+02:00</published><updated>2018-10-27T10:40:00+02:00</updated><author><name>Maïlys et Sylvain</name></author><id>tag:sdessus.github.io,2018-10-27:/Commentaires.html</id><summary type="html">&lt;p&gt;Vous avez bien lu ! Les commentaires arrivent sur le blog ;)&lt;/p&gt;
+&lt;p&gt;Je me permet un petit article pour expliquer un peu plus en détail ce délicat passage pour notre blog. Parce que je peux vous le dire, j'ai bien galéré avec cette fonctionnalité, pour la simple et bonne raison que je …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Vous avez bien lu ! Les commentaires arrivent sur le blog ;)&lt;/p&gt;
+&lt;p&gt;Je me permet un petit article pour expliquer un peu plus en détail ce délicat passage pour notre blog. Parce que je peux vous le dire, j'ai bien galéré avec cette fonctionnalité, pour la simple et bonne raison que je n'ai pas voulu faire appel à un service tiers (type Disqus, facebook ou autre). Je voulais que les commentaires reste à nous, pour nous et chez nous. Et c'est chose faite, grâce à un petit outil, &lt;a href="https://staticman.net/"&gt;Staticman&lt;/a&gt;, et beaucoup de galère de programmation et autre configuration de mon dépot Github. Bref, je vous passe les détails, on est passé à deux doigts que ça ne se fasse pas !&lt;/p&gt;
+&lt;p&gt;Il faut aussi savoir 3 choses :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les commentaires ne seront pas modérés : je compte donc sur vous pour ne pas abuser ;)&lt;/li&gt;
+&lt;li&gt;Votre email ne sera pas utilisé par ou dans le site. Ce n'est qu'une manière d'identifier votre commentaire (et de vous répondre si besoin)&lt;/li&gt;
+&lt;li&gt;Le site est statique, c'est-à-dire que sont contenu est quelque peu figé. Ne vous attendez donc pas à voir apparaître votre commentaire directement après son envoi. Il me faut faire ma petite tambouille pour que vous ayez le bonheur de le voir apparaître sur l'article.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En tout cas nous serons très content de lire vos réactions.&lt;/p&gt;</content></entry></feed>
