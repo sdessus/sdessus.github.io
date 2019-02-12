@@ -13,8 +13,8 @@ from functions_image2article import *
 
 # GetImDateShot('C:\Blog_TDM\content\images\TestPyth\TestPyth_0.jpg')
 
-# GetImComment('C:\Blog_TDM\content\images\Thakhek\Thakhek_01.jpg')
+# GetImComment('C:\Blog_TDM\content\images\TestPyth\TestPyth_00.jpg')
 
-# InsertLegend2Art('C:\Blog_TDM\content\images\TestPyth\TestPyth_01.jpg', 'C:\Blog_TDM\content\Coffee.md')
+InsertLegend2Art('C:\Blog_TDM\content\images\TestPyth\TestPyth_00.jpg', 'C:\Blog_TDM\content\Coffee.md')
 
-InsertLegendFolder2Art('C:\Blog_TDM\content\images\KohLantaMook','C:\Blog_TDM\content\Koh_Lanta_Mook_Krabi.md')
+# InsertLegendFolder2Art('C:\Blog_TDM\content\images\KohLantaMook','C:\Blog_TDM\content\Koh_Lanta_Mook_Krabi.md')
