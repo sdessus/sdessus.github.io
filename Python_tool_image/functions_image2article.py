@@ -44,7 +44,7 @@ def im2art(ImFilePath,ArticlePath):
 		ArticleFile.write('<\div>\n')
 		
 		# Lower block statement
-		LowerBlock = ['<script>\n', '\t(function() { \n', "            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');\n", "            Galleria.run('.galleria');\n", '        }());\n', '</script>\n']
+		LowerBlock = ['<script>\n', '\t(function() { \n', "            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');\n", "            Galleria.run('.galleria', {\n", '                extend: function(options) {\n', '                    Galleria.log(this)\n', '                    Galleria.log(options)\n', "                    this.bind('image', function(e) {\n", '                        Galleria.log(e)\n', '                        Galleria.log(e.imageTarget)\n', '                        $(e.imageTarget).click(this.proxy(function() {\n', '                        this.openLightbox();\n', '                        }));\n', '                    });\n', '                }\n', '            });\n','        }());\n', '</script>\n']
 		ArticleFile.writelines(LowerBlock)
 		
 	else:
