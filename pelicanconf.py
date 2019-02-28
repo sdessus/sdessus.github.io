@@ -27,7 +27,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('GSCF - Considérez faire un don, svp', 'pages/Dons.html'),
-         ('Adventure Bag - Considérez faire un geste, svp', 'https://www.journeyera.com/adventure-bag/'))
+         ('Adventure Bag - Considérez faire un geste, svp', 'https://www.journeyera.com/adventure-bag/'),
+         ('Fondation Mudita', 'http://mudita-foundation.org/'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
