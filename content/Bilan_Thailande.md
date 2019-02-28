@@ -5,7 +5,7 @@ Slug: BilanThai
 Status: published
 SubTitle: 
 Cover: images/BilanThai/KohLantaMook_24.jpg
-Thumbnail: images/BilanThai/Bilan_thumbnail.jpg
+Thumbnail: images/BilanThai/BilanThumbnail.jpg
 
 # Le bilan de la dame
 
