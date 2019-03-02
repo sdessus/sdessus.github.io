@@ -58,7 +58,6 @@ On se paye le luxe d'une petite pizza sur Pai, un dernier tour pour le marché d
     <img src="images/Pai/Pai_00.jpg" data-description="On se refait une beauté à Pai">
     <img src="images/Pai/Pai_01.jpg" data-description="On se repère à la lampe à pétrole, pour le folklore">
     <img src="images/Pai/Pai_02.jpg" data-description="le genre de beauté sur laquelle on tombe au détour d'un virage">
-    <img src="images/Pai/Pai_03.jpg">
     <img src="images/Pai/Pai_04.jpg" data-description="Le temple illuminé de Mae Hong Son">
     <img src="images/Pai/Pai_05.jpg">
     <img src="images/Pai/Pai_06.jpg">
