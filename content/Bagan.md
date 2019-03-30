@@ -46,6 +46,8 @@ Le lendemain on prend l'avion pour un passage en France de quelques jours avant 
     <img src="images/BaganYangon/BaganYangon_04.jpg">
     <img src="images/BaganYangon/BaganYangon_05.jpg">
     <img src="images/BaganYangon/BaganYangon_06.jpg">
+    <img src="images/BaganYangon/BaganYangon_21.jpg" data-description="Une photo posée pour les touristes chinois : j'en ai profité !">
+    <img src="images/BaganYangon/BaganYangon_22.jpg" data-description="La chaise du penseur">
     <img src="images/BaganYangon/BaganYangon_07.jpg">
     <img src="images/BaganYangon/BaganYangon_08.jpg" data-description="Un des grands temples, récemment restauré">
     <img src="images/BaganYangon/BaganYangon_09.jpg" data-description="Un autre temple, en rénovation">
