@@ -2,10 +2,10 @@ Title: Patagonie : Torres del Paine
 Date: 2019-03-19 20:40
 Category: Amerique du sud
 Slug: Trek
-Status: draft
+Status: published
 SubTitle: 
-Cover: images/Torresdelpaine/
-Thumbnail: images/Torresdelpaine/
+Cover: images/Torresdelpaine/TorresdelPaine_00.jpg
+Thumbnail: images/Torresdelpaine/TorresdelPaine_14.jpg
 
 # L'Argentine : un début chaotique !
 
@@ -51,3 +51,55 @@ Le lendemain, nous reprenons le ferry pour rentrer car Sylvain ne se sent pas de
 
 Demain les zamis, on a hâte! 
 Mayo
+
+
+
+<div class="galleria" style="margin:auto">
+    <img src="images/TorresdelPaine/TorresdelPaine_00.jpg" data-description="Premier jour : les plaines jaunes changeantes">
+    <img src="images/TorresdelPaine/TorresdelPaine_01.jpg">
+    <img src="images/TorresdelPaine/TorresdelPaine_02.jpg" data-description="Une des nombreuses espèces d'oiseaux du parc">
+    <img src="images/TorresdelPaine/TorresdelPaine_03.jpg" data-description="Dur dur la montée vers las Torres">
+    <img src="images/TorresdelPaine/TorresdelPaine_04.jpg">
+    <img src="images/TorresdelPaine/TorresdelPaine_05.jpg">
+    <img src="images/TorresdelPaine/TorresdelPaine_06.jpg" data-description="Un pic vert !! Long time no see">
+    <img src="images/TorresdelPaine/TorresdelPaine_07.jpg" data-description="Crevés mais ravis">
+    <img src="images/TorresdelPaine/TorresdelPaine_08.jpg" data-description="La récompense : las Torres émergent des nuages">
+    <img src="images/TorresdelPaine/TorresdelPaine_09.jpg" data-description="On se les pèle !">
+    <img src="images/TorresdelPaine/TorresdelPaine_10.jpg">
+    <img src="images/TorresdelPaine/TorresdelPaine_11.jpg" data-description="Deuxième jour : on est repartis !">
+    <img src="images/TorresdelPaine/TorresdelPaine_12.jpg" data-description="14 km plus tar">
+    <img src="images/TorresdelPaine/TorresdelPaine_13.jpg">
+    <img src="images/TorresdelPaine/TorresdelPaine_14.jpg" data-description="Un lac magnifique">
+    <img src="images/TorresdelPaine/TorresdelPaine_15.jpg" data-description="Sylvain de dos 1">
+    <img src="images/TorresdelPaine/TorresdelPaine_16.jpg" data-description="Sylvain de dos ">
+    <img src="images/TorresdelPaine/TorresdelPaine_17.jpg" data-description="Montée vers le point de vue Britannico">
+    <img src="images/TorresdelPaine/TorresdelPaine_18.jpg" data-description="Sur le chemin, le glacier point de vue Franc�s">
+    <img src="images/TorresdelPaine/TorresdelPaine_19.jpg" data-description="Un temps magnifique pour un paysage de r�ve">
+    <img src="images/TorresdelPaine/TorresdelPaine_20.jpg" data-description="Rester sans voix devant cette merveille">
+    <img src="images/TorresdelPaine/TorresdelPaine_21.jpg" data-description="Point de vue Britannico">
+    <img src="images/TorresdelPaine/TorresdelPaine_22.jpg" data-description="Même pas peur">
+    <img src="images/TorresdelPaine/TorresdelPaine_23.jpg" data-description="Les arbres calcinés">
+    <img src="images/TorresdelPaine/TorresdelPaine_24.jpg">
+    <img src="images/TorresdelPaine/TorresdelPaine_25.jpg" data-description="La forêt calcinée">
+    <img src="images/TorresdelPaine/TorresdelPaine_26.jpg" data-description="Le glacier Grey, en solo">
+    <img src="images/TorresdelPaine/TorresdelPaine_27.jpg" data-description="Un des renard chapardeur du campement">
+    <img src="images/TorresdelPaine/TorresdelPaine_28.jpg" data-description="Quel homme !!">
+<\div>
+<script>
+	(function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria', {
+                extend: function(options) {
+                    Galleria.log(this)
+                    Galleria.log(options)
+                    this.bind('image', function(e) {
+                        Galleria.log(e)
+                        Galleria.log(e.imageTarget)
+                        $(e.imageTarget).click(this.proxy(function() {
+                        this.openLightbox();
+                        }));
+                    });
+                }
+            });
+        }());
+</script>
