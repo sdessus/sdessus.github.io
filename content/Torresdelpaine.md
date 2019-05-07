@@ -1,0 +1,53 @@
+Title: Patagonie : Torres del Paine 
+Date: 2019-03-19 20:40
+Category: Amerique du sud
+Slug: Trek
+Status: draft
+SubTitle: 
+Cover: images/Torresdelpaine/
+Thumbnail: images/Torresdelpaine/
+
+# L'Argentine : un début chaotique !
+
+L'arrivée en Argentine n'a pas été de tout repos . Notre périple de l'Asie à l'Amérique Sud était coupé par un passage en France. Entre Paris, Lyon et l'Ardèche nous avons ainsi retrouvé avec beaucoup d'émotion une belle partie de nos familles et de nos amis. Ce furent 5 jours de câlinous choupinous, rires, discussions et beaucoup de nourriture française : bref, intenses. 
+
+Nous sommes finalement arrivés à Buenos Aires le 13 mars au matin avec un départ prévu pour la Patagonie le jour suivant. Mais les péripéties ne se sont pas arrêtées là... Le changement à Madrid étant trop court, nous nous sommes retrouvés avec nos sacs qui se baladaient sans nous en Europe. La compagnie nous a assuré pouvoir les retrouver avant le départ de Buenos Aires mais ça ne s'est pas du tout passé comme ça, of course, ça aurait été beaucoup trop simple. Nous les avons effectivement retrouvés 4 jours plus tard en Patagonie après avoir très largement bousculé nos plans du début de trek. Un peu de panique et un peu d'énervement, mais finalement on retombe sur nos pattes. Heureusement car sans sac, pas de matos de camping et donc pas de trek ==> CQFD.
+
+# Les préparatifs du trek
+
+Nous souhaitons donc débuter le trek de Torres del Paine au Chili, qui nous avait demandé beaucoup de préparation les six mois d'avant en terme de planification (du trajet, des points pour camper ainsi que du matériel). Ce trek étant dans un parc naturel il est maintenant impossible d'y rentrer sans avoir au préalable réservé chacune des nuits dans les différentes structures présentes sur place . Il nous fallait donc évaluer le temps de marche journalier et se battre avec les plateformes pour réserver les campings (grosse baston !). Ça n'a été une partie de plaisir ni pour nos neurones ni pour le portefeuille ! Bon vous l'aurez compris, la perte des sacs et la plannif ont donc été aussi sportives que la rando elle même. 
+
+L'aventure pouvait commencer. Après les ultimes courses de nourriture à Puerto Natales (dernière ville côté chilien avant le parc), nous nous présentons donc à l'entrée du parc. 
+
+Pour la petite histoire, nous avions évidemment laissé bon nombre de nos affaires en Argentine, et sommes partis avec une tenue de jour et une tenue de nuit, le matériel de camping et la nourriture pour tous les repas sur 6 jours. La première fois que j'ai soulevé mon sac, j'ai clairement envisagé de manger dans les deux premiers jours toute la nourriture afin de ne plus avoir à la transporter. Quel poids de barjot! De une, on avait jamais fait de trek d'autant de jours, de deux jamais en autonomie avec un sac pesant comme une semi remorque sur le dos. Finalement, grâce aux sangles du sac, j'ai alterné entre le poids sur les épaules ou sur les hanches. Pas très pro, mais efficace. 
+
+Le trek que nous avions envisagé était le circuit W, sur 5/6 jours. Il s'appelle comme ça du fait de sa forme sur la carte. L'autre trek possible dans le coin est le trek en O, qui lui fait une boucle de 8/10 jours.
+
+Nous avons donc passé le poste frontière du parc, pris une navette vers le centre d'informations, et de là, avons parcouru les quelques centaines de mètres jusqu'au premier campement, Central. Après avoir monté pour la première fois notre nouvelle tente (quelle bêtise...), nous avons passé une première soirée à prendre nos marques et à discuter avec d'autres voyageurs. Le temps est extrêmement changeant en Patagonie, pouvant passer de la tempête au grand soleil, et ce soir là, il pleuvait. Le camping payé au prix fort (les deux compagnies se partageant l'hébergement a Torres se font des montagnes de pépettes) ne comporte qu'une minuscule bâche sensée délimiter l'endroit ou cuisiner. Autant dire qu'on y rentrait pas tous, et que quand il pleut, l'option de cuisiner dans les toilettes te paraît alléchante. Le lendemain, rebelotte, de la pluie le matin. Mais à 9h, la pluie s'arrête et on a été extrêmement chanceux car elle n'a jamais repris pendant le trek !
+
+# Première étape : Las Torres ! 19 km / dénivelé : 800m
+
+Pour ce premier jour, l'étape prévue était l'aller retour jusqu'à las Torres. Les fameuses montagnes en forme de tours que beaucoup viennent voir sur une journée sans forcément ni faire le circuit W ni O. C'est donc la première branche verticale du W. Le gros point positif c'est qu'on peut laisser nos sacs à Central puisqu'on y redort la nuit suivante. 
+
+Nous sommes donc partis vers 9h30 et revenus vers 17h30, et physiquement, de mon côté ça n'a pas été facile-facile. La rando était assez blindée, avec tous les touristes à la journée, mais très agréable, entre des passages en forêt et d'autres à découvert, à flanc de montagne. Le début du parcours est dans un paysage de collines verdoyantes avec des ombres et des reflets jaunes, c'est absolument magnifique. Et la vue en arrivant... un lac bleu changeant en fonction de la lumière, un paysage de pierres lunaire et en fond, les fameuses tours qui perçaient les nuages. Bon par contre un froid de canard, avec du vent qui s'infiltre entre les couches. On est bien contents d'avoir pris des chaufferettes! A la fin de la journée, on est heureux, frigorifiés et bien heureux de trouver une douche chaude.
+
+# Deuxième étape : Frances, 16 km / dénivelé : 300 m
+
+Le lendemain, première branche «horizontale». On longe à notre droite le massif montagneux. Le chemin est très agréable, il y a moins de monde, et des lacs d'un bleu turquoise se succèdent. On en prend plein les yeux. Il y a un passage un peu plus challenging, ou le vent se met à souffler d'un coup avec tellement de force que je ne peux plus avancer. Il faut dire qu'on a notre sac sur le dos et qu'on ressemble à des grosses tortues avec une belle prise au vent. Pas de soucis, pause barre de céréales. 
+
+Après une belle journée de marche, on arrive au second campement, le Francés. Et la horreur, le gars de l'accueil ne nous retrouve pas... Ça lui aura pris une petite demi heure de doute des deux côtés et quelques coups de fils. Cette fois-ci, du fait de la pente, toutes les tentes sont sur des plateformes en bois. On fait notre popote et on papote. 
+
+# Troisième étape : mirador Britanico ! 13 km / dénivelé : 630 m
+
+Le lendemain on repart pour la seconde branche verticale du W, et on dépose nos sacs au campement Italianio, le seul gratis de notre parcours. Direction le point de vue Britannico ! À part un passage de franche montée au début, le chemin se fait bien, et est encore une fois beau et varié. On passe notamment devant un glacier, impressionnant. Mais le mirador à l'arrivée est encore une fois à couper le souffle. C'est cette fois-ci une vue à 360°, avec des montagnes tout autour. Mais ces montagnes sont toutes très différentes avec une composition rocheuse variée. Il est très difficile de savoir où donner des yeux et de l'objectif. Les photos ne rendent vraiment pas justice au lieu. Sur le chemin du retour, Sylvain commence à ressentir une gêne qui se transforme en douleur au niveau du genou. La redescente lui est pénible. 
+
+# Quatrième étape : demi Grey. 19km / dénivelé : 300m
+
+Le quatrième jour, c'est de nouveau une branche horizontale du W jusqu'au campement Paine Grande, avec les sacs. La marche est difficile pour Sylvain qui ne s'en sort quand même pas si mal. Les paysages sont relativement similaires à ceux du deuxième jour puisque nous longeons encore le massif montagneux. On passe à travers des forêts de bois blanc mort, magnifique (même si c'est malheureusement dû à un feu qui a bien ravagé le paysage). On arrive au campement en milieu d'aprem et les négociations commencent. Sylvain ne pourra pas continuer, mais la dernière nuit de prévue était au refuge Grey, le plus chouette, la seule nuit en dur et surtout la nuit la plus chère de tout notre voyage. On essaie de négocier un remboursement, et la réponse sera finalement non, il ne fallait pas se blesser...
+
+J'abandonne Sylvain quelques heures pour me faire 12 km supplémentaires et aller voir le glacier de loin. Ces journées de marche m'ont fait un bien fou, je me sens cavaler sur les chemins et je pensais vraiment pas avoir cette forme physique. Du bonheur en barre ! Le glacier Grey est effectivement très beau, c'est de loin un gigantesque iceberg qui tombe en falaise de glace dans le lac. Sylvain est déçu mais nous nous consolons en parlant du Perito Moreno dans quelque jours.
+
+Le lendemain, nous reprenons le ferry pour rentrer car Sylvain ne se sent pas de faire le même chemin que moi. Des images plein la tête, le bateau nous amène vers la sortie. Retour à Puerto Natales (Chili) puis départ pour l'Argentine ou nous retrouverons nos potos le lendemain.
+
+Demain les zamis, on a hâte! 
+Mayo
