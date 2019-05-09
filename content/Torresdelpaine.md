@@ -4,8 +4,8 @@ Category: Amerique du sud
 Slug: Trek
 Status: published
 SubTitle: 
-Cover: images/Torresdelpaine/TorresdelPaine_00.jpg
-Thumbnail: images/Torresdelpaine/TorresdelPaine_14.jpg
+Cover: images/TorresdelPaine/TorresdelPaine_00.jpg
+Thumbnail: images/TorresdelPaine/TorresdelPaine_14.jpg
 
 # L'Argentine : un début chaotique !
 
