@@ -39,12 +39,34 @@ Ici juste un aperçu de quelques croquis exécutés le long du voyage.
     <img src="../images/Carnet_croquis/Carnet_28.jpg">
     <img src="../images/Carnet_croquis/Carnet_29.jpg">
     <img src="../images/Carnet_croquis/Carnet_30.jpg">
+    <img src="../images/Carnet_croquis/Carnet_31.jpg">
+    <img src="../images/Carnet_croquis/Carnet_32.jpg">
+    <img src="../images/Carnet_croquis/Carnet_33.jpg">
+    <img src="../images/Carnet_croquis/Carnet_34.jpg">
+    <img src="../images/Carnet_croquis/Carnet_35.jpg">
+    <img src="../images/Carnet_croquis/Carnet_36.jpg">
+    <img src="../images/Carnet_croquis/Carnet_37.jpg">
+    <img src="../images/Carnet_croquis/Carnet_38.jpg">
+    <img src="../images/Carnet_croquis/Carnet_39.jpg">
+    <img src="../images/Carnet_croquis/Carnet_40.jpg">
+    <img src="../images/Carnet_croquis/Carnet_41.jpg">
+    <img src="../images/Carnet_croquis/Carnet_42.jpg">
 <\div>
 <script>
 	(function() { 
             Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
             Galleria.run('.galleria', {
-                height: 0.5625
+                extend: function(options) {
+                    Galleria.log(this)
+                    Galleria.log(options)
+                    this.bind('image', function(e) {
+                        Galleria.log(e)
+                        Galleria.log(e.imageTarget)
+                        $(e.imageTarget).click(this.proxy(function() {
+                        this.openLightbox();
+                        }));
+                    });
+                }
             });
         }());
 </script>

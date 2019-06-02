@@ -1,0 +1,103 @@
+Title: La Paz, une des capitales
+Date: 2019-05-25 13:56
+Category: Amerique du sud
+Slug: LaPaz
+Status: published
+SubTitle: ... à 3600 m d'altitude
+Cover: images/LaPazTaquesi/LaPazTaquesi_16.jpg
+Thumbnail: images/LaPazTaquesi/LaPazTaquesi_10.jpg
+
+# L'arrivée à La Paz
+
+Nous arrivons après un bus de nuit comme d'habitude un peu compliqué à La Paz. La Paz est la plus grande ville de Bolivie et de ce fait sa capitale "économique". C'est aussi l'endroit ou siège le gouvernement. Mais Sucre est la capitale constitutionnelle du pays, ce qui donne lieu à quelques rivalités. 
+
+Arrivée à l'hostal, le gérant très mal-luné nous informe qu'il n'aura pas de chambre avant 11h (alors que le bâtiment est immense, on penche plus pour de la mauvaise fois). Nous laissons donc nos sacs et partons nous faire une première idée de l'ambiance de cette ville perchée à 3600 mètres d'altitude. Le premier constat est que les gens courrent... littéralement. Ils ont l'air aussi pressés qu'à Paris et au moins aussi souriants que des parisiens. Ca fait plaisir ! Qu'à cela ne tienne, on se pose dans un café, à l'angle d'une grande avenue et on les regarde s'affairer comme des fourmis. Puis on commence notre petit périple, en montant vers ce qu'on identifie sur la carte comme la place principale. De là, des bâtiments officiels avec le cachet de l'ancien (comprenez parfois assez délabrés), une cathédrale et des immeubles très modernes. On se ballade ensuite dans le quartier autour, qui a du charme également avec certaines belles constructions, mais sans être foufous. Il y a par contre beaucoup d'animation, même pour un jour de semaine. Pour le repas de midi, on est crevés et le bide en vrac donc on revient sur des classiques qui font du bien : de la nourriture asiatique ! L'aprem ce sera siesta. Demain, une belle journée de visite en perspective.
+
+# La vraie découverte de la ville
+
+Le lendemain à 11h, on s'est prévu le classique walking tour. Qui n'est plus gratuit car l'industrie touristique l'interdit et des concurrents auraient frappés des guides pour qu'ils arrêtent la gratuité. On paye donc une somme symbolique et des tips si on apprécie le tour. Nous sommes une bonne équipe d'une trentaine de gringos, cette association est très populaire sur La Paz. Je ne vais pas pouvoir tout raconter, mais certains faits sont plutôt sympas :
+
+## La prison
+
+La prison de La Paz est en plein centre sur une des places principales de la ville. Et c'est une mini-ville qui se gère avec toute l'organisation classique d'une société. Il y a très peu de gardes qui te font payer une grosse taxe à l'entrée en fonction des revenus du prisonnier qui entre. Les cellules sont à la location ou à l'achat, allant du cagibi ou tu dors à 10 jusqu'à la cellule appartement avec jacuzzi si tu as les moyens. Tu peux y faire venir ta famille pour qu'elle y habite avec toi et ils ont droit de sortie et d'entrée pour aller à l'école. Il y a un marché, des restaurants allant du plus simple au plus luxueux. Et il y a évidement (il y avait ? le mystère reste complet) du commerce avec l'extérieur de "sucre", ce fameux sucre qui se prend par les deux orifices au dessus de la bouche. 
+
+Avant la prison se visitait, et il était possible d'y manger au resto, mais il y a eu des agressions de touristes, et depuis il est fortement déconseillé d'accepter les offres dans la rue d'un mec louche qui te proposerait d'y faire un tour. 
+
+# Le marché aux sorcières et les rituels de construction
+
+Nous sommes passés par un petit marché de la bruja (de la sorcière), le grand étant plus loin sur les hauteurs de la ville. Là, des foetus de lamas sont suspendus un peu partout ainsi que des amulettes, des plantes et des récipients. Les guides nous reparlent de Pachamama, et du fait de l'honorer avant de débuter la construction de ta maison. Il faut alors creuser un trou à l'endroit en question et y déposer le foetus de lama ainsi que d'autres offrandes (plantes...), afin de protéger ceux qui vont contruire et vivre dans la maison. C'est une forme de remerciement pour 
+Pachamama pour la terre qu'elle nous permet d'habiter. Les Boliviens ne tuent pas le bébé lama, sinon cela annulerait le don, il faut qu'il soit déjà décédé à la naissance. 
+
+Evidemment, ce n'est pas suffisant pour un immeuble ou un bâtiment plus important qu'une maison familiale. Pour cela il faudrait un humain... Ce qui se faisait (et on a pas vraiment réussi à savoir en quelle mesure cette tradition a été abandonnée), c'est d'aller piocher dans les SDF. Repérer celui qui n'a plus d'attaches sociales, pas de famille ni amis et plus rien qui le rattache à la vie. Lui proposer un repas chaud et de la boisson. Puis le faire boire jusqu'au coma éthylique et le mettre dans le trou avec les offrandes, recouvrir avec la chappe de béton et débuter la construction. Pachamama doit récupérer la vie, il ne doit donc pas être mort. C'est hyper flippant et glauque, et quand un bâtiment est détruit, il n'est vraiment pas rare de retrouver un squelette en dessous. Mais les guides nous assurent que maintenant ils ont quelque chose appelé "les droits de l'homme", donc ça ne serait plus aussi courant. Scary !!!
+
+Toujours en rapport avec le marché des sorcières, la guide nous raconte une petite pratique avec l'accouchement en campagne. La sage femme arrive avec son barda de plantes et elle sait par transmission des anciennes quoi donner et quand. Le placenta à la campagne est enterré sous la maison ou dans le jardin, pour que l'enfant aie toujours une attache, ses racines quelque part. 
+
+On finit par une énorme discussion politique, impossible sur la place principale devant les bureaux du gouvernements, mais dans un petit bar. La synthèse de ce qu'on a perçu de la politique bolivienne sera plus abordée dans le bilan Bolivie. 
+
+Après cette visite bien complète, on part se faire le musée de l'éthnologie, qui est lui aussi très complet, diversifié et interéssant. 
+
+On commence a bien apprécier la ville, maintenant qu'on la comprend un peu plus et le lendemain on s'est également prévu un programme chargé.
+
+# La Paz, jour 3 !
+
+## Le cimetière
+
+Pour le dernier jour, on monte sur les hauteurs de la ville, au moyen du transport en commun local, le téléphérique ! Il y a plein de lignes différentes et franchement, c'est très pratique pour apprécier cette ville qui semble se déverser des montagnes pour finir dans la cuvette. En effet, des milliers de petites maisons en briques-parpaings rouges occupent tous les versants des montagnes autour de la ville, et le centre est dans la cuvette, c'est assez impressionnant. 
+
+On va commencer notre journée au cimetière. Il est très différents de ceux dont on a l'habitude en France et parait beaucoup beaucoup plus vivant. Dans sa majorité, ce sont des immenses rangées sur plusieurs étages de petites niches commémoratives du défunt. Mais on a vraiment l'impression que malgré l'immensité du lieu et donc du nombre de "résidents" du cimentière, beaucoup de niches sont fleuries avec des fleurs fraiches. Cela ne donne pas cette ambiance glauque et abandonnée qu'on peut avoir en France. En plus, en bout de rangée, les murs sont entièrement peinds par des véritables artistes streetart avec des grandes fresques parfaitement réalisées. Bref ce cimetière est beau.
+
+## Le marché aux puces et du catch
+
+Puis on part en expédition dans le gigantesque marché aux puces sur les hauteurs. On y vend de tout, des pièces détachées de voitures, en passant par les ustentiles de cuisine, du prêt à porter, de la nourriture, des portes, des fenêtre et des portails : de tout!
+
+En fin d'après midi, c'est un match de catch féminin qui nous attend. Les Cholitas, ces dames boliviennes avec un petit chapeau melon sur le sommet du crâne et des jupes très très bouffantes s'affrontent ! Au programme, crépage de tresses, vol planné en jupon, et baffes gratuites pour l'arbitre. Un spectacle assez fun dans lequel tu rentres assez vite.
+
+Le lendemain, après mûre réflexion sur notre santé actuelle, on s'est décidé pour un trek de deux jours : Le mont Taquesi, passage à 4660 m !
+
+Demain Taquesi, un peu de pétoche, mais j'ai hâte !
+
+Pipoca
+
+
+
+<div class="galleria" style="margin:auto">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_00.jpg" data-description="Une Cholita remontant une rue">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_01.jpg" data-description="La fameuse place principale">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_02.jpg" data-description="A gauche, l'ancien (bâtiment rouge) et le nouveau (building) bureau présidentiel">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_03.jpg" data-description="Une statue sur une place">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_04.jpg" data-description="La vie grouillante de La Paz">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_05.jpg" data-description="Le quartier d'affaires">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_06.jpg" data-description="Les petits foetus de lamas, yummy !">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_07.jpg" data-description="La cours intérieur du musée d'éthnologie">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_08.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_09.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_10.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_12.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_13.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_14.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_18.jpg" data-description="Fresques de cimetière">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_11.jpg" data-description="Pas de supermaché, que du marché !">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_15.jpg" data-description="Ici, on porte les courses et les enfants dans son châle, sur le dos">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_16.jpg" data-description="Une petite partie de la ville, vue d'en haut">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_17.jpg" data-description="Le marché">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_19.jpg" data-description="Le Catch des Cholitas">
+    <img src="images/LaPazTaquesi/LaPazTaquesi_20.jpg" data-description="Le marché, vu du téléphérique">
+<\div>
+<script>
+	(function() { 
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria', {
+                extend: function(options) {
+                    Galleria.log(this)
+                    Galleria.log(options)
+                    this.bind('image', function(e) {
+                        Galleria.log(e)
+                        Galleria.log(e.imageTarget)
+                        $(e.imageTarget).click(this.proxy(function() {
+                        this.openLightbox();
+                        }));
+                    });
+                }
+            });
+        }());
+</script>
