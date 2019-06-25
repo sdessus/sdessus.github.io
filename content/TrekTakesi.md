@@ -14,28 +14,35 @@ Du coup je pars faire quelques emplettes dans les rues de La Paz. Je cherche d'a
 Bref je trouve ce que je veux mais ça me prend un temps fou. Je pense par contre que les locaux ont bien leurs petites habitudes et savent où aller chercher quoi, quand je devais faire 3 fois la rue pour trouver mon bonheur. Reste que c'est beaucoup plus animé, vivant et donc humain que nos hypermarchés. Je comprends que les boliviens préfèrent cette organisation.  
 Bref du coup je m'en sors et nous voilà partis le lendemain matin aux aurores. On arrive au mini-van pour Takesi et on se fait alpaguer par 3 français qui négociaient déjà leur transport et étaient bien contents de trouver deux arguments supplémentaires pour faire décoller le véhicule. Et nous voilà partis.
 
-# Le trelk
+# Le trek
 Honnêtement à partir de là j'ai peu à raconter. Les photos parleront mieux que moi.
 
 Quelques éléments tout de même :
+
 — Oui on a galéré pour monter jusqu'à 4600m. On y allait lentement mais sûrement. J'ai quand même fini la journée avec un sacré mal de tête. Et on était tout les deux bien vannés à la fin.
+
 — Passé le col, ce n'est quasiment qu'une perpétuelle descente (jusqu'à 1700m d'altitude) mais assez douce. Nos genoux n'ont pas trop souffert.
-— La brume persistante sur le début de la descente, où le chemin des Incas pavé est encore bien présent et où on traverse régulièrement des ruines, rendait vraiment une atmosphère mystique que les photos n'ont pas sue capturer.
+
+— La brume persistante sur le début de la descente, où le chemin des Incas pavé est encore bien présent et où on traverse régulièrement des ruines, rendait vraiment une atmosphère mystique que les photos n'ont pas su capturer.
+
 — La nuit quand même, à 3700m d'altitude, il a fait un peu froid.
+
 — Le deuxième jour on s'est vite retrouvés dans la jungle où il faisait quand même bien plus chaud et humide.
+
 — Désolé mais vraiment les lamas ont des têtes de demeurés.
 
-On a fini le trek, quand il ne restait qu'une route inintéressante, en ce faisant prendre en taxi. Suite à une erreur de compréhension de ma part, on s'est retrouvés à monter au village de mineurs un peu en hauteur. Petite visite pas désagréable pour voir un peu ce qui se passe. Étant dimanche, le stade était bien occupé par des footeux, petits et grands.
+On a fini le trek, quand il ne restait qu'une route inintéressante, en se faisant prendre en taxi. Suite à une erreur de compréhension de ma part, on s'est retrouvés à monter au village de mineurs un peu en hauteur. Petite visite pas désagréable pour voir un peu ce qui se passe. Étant dimanche, le stade était bien occupé par des footeux, petits et grands.
 Ensuite on se rentre donc vers La Paz, non sans un petit incident avec le chauffeur à cause d'un tarif exagéré. Mais bon la route était très jolie tout de même.
 On rentre donc bien fatigués mais quand même bien content de cette petite excursion champêtre qui nous aura fait voir de bien beaux paysages.
 
 # Copacabana et la suite
+
 On décide donc de bouger vers Copacabana, au bord du lac Titikaka. On est un peu fatigués de La Paz et son émulsion.
-La route pour arriver à Copacabana et sans nul doute très jolie. La ville, par contre, présente peu d'intérêt. On y passe la nuit, mais de toute façon notre véritable but c'est l'Isla del Sol. En se renseignant sur les expéditions on apprend que la partie nord, a priori la plus intéressante, est fermée suite à un conflit sur le tourisme. Ça ça nous embête bien par contre.
+La route pour arriver à Copacabana et sans nul doute très jolie. La ville, par contre, présente peu d'intérêt. On y passe la nuit, mais de toute façon notre véritable but c'est l'Isla del Sol. En se renseignant sur les expéditions on apprend que la partie nord, à priori la plus intéressante, est fermée suite à un conflit sur le tourisme. Ça, ça nous embête bien par contre.
 
 <div class="galleria" style="margin:auto">
     <img src="images/TrekTakesi/TrekTakesi_00.jpg" data-description="Le chemin des Incas">
-    <img src="images/TrekTakesi/TrekTakesi_01.jpg" data-description="La fiert� se lit dans ses yeu">
+    <img src="images/TrekTakesi/TrekTakesi_01.jpg" data-description="La fierté se lit dans ses yeux">
     <img src="images/TrekTakesi/TrekTakesi_02.jpg">
     <img src="images/TrekTakesi/TrekTakesi_03.jpg" data-description="Mystique !">
     <img src="images/TrekTakesi/TrekTakesi_04.jpg">
