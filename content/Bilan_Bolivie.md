@@ -56,5 +56,5 @@ Bon et y'a cette histoire de politique pourri, comme pour beaucoup d'endroit. Ma
 
 <figure>
     <img src="images/BilanBolivie/tof.jpg">
-    <figcaption>On est sereins ou on est pas serein ?!</figcaption>
+    <figcaption>On est sereins ou on est pas sereins ?!</figcaption>
 </figure>
