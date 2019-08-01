@@ -52,9 +52,8 @@ On a pu rencontrer beaucoup de situations politiques précaires lors de ce voyag
 
 Je m'en vais donc tranquillement au marché, et la dame du maïs me dit très gentillement que Cuenca est safe, mais qu'il faut faire quand même attention de partout. Je lui demande pourquoi, et elle me dit que les Vénézueliens sont partout et que ce sont des voleurs, des squatteurs, des racketteurs et tutti quanti (et qu'elle veut monter un groupe de protestation). 
     --> Ben meuf, tu veux pas juste comprendre que si tu étais dans leur situation et que tu ne pouvais pas nourrir ta famille ou même ta propre petite personne, tu tenterais sûrement ta chance chez tes voisins ? 
-Le problème 
 
-c'est que ce genre de réaction a été assez récurrente en Equateur. Bref, en matière de racisme, on se sent comme en France, pas de dépaysement.
+Le problème c'est que ce genre de réaction a été assez récurrente en Equateur. Bref, en matière de racisme, on se sent comme en France, pas de dépaysement.
 
 Pour finir sur une note positive, on a eu un énorme coup de coeur pour Cuenca et le parc de Cajas. Il est très difficile de transmettre par écrit nos sensations mais j'espère que les photos vous aideront à capter la magie de la région.
 
